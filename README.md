@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Gamer Ben. I Code Projects With Python, Html, CS, And Even Minecraft!
+🔭 I’m currently working on Knights And Castles A Medieval Minecraft Mod For Forge 1.20.1 And Neoforge 1.20.4.
+If You Want To Help Out With Making Models In Blockbenck, Making Animations In BB Using Geckolib, Or Even Making Structures, Please Contact Me On Discord.
+If You Do End Up Helping With KNC/KC (Knights And Castles) Then You Will Get A Cut Of The Profit On Modrinth!
+Discord username: gamerbenyt
+YouTube: https://www.youtube.com/@gamerbenyt
+
+
 <!--
 **gamerbenyt/gamerbenyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
